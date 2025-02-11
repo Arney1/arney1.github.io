@@ -1,0 +1,27 @@
+Heading Utama: Arkan Ramadhan Nugraha
+H1: Arkan Ramadhan Nugraha
+H1: Arkan Ramadhan Nugraha
+H1: Hubungi Saya
+H2: Programmer / Music Producer
+H3: Tentang Saya
+H3: Pengalaman
+H3: Keterampilan
+H4: Internship
+H4: Fakta Menarik
+Paragraf 1 dalam Tentang: 
+          Halo, saya adalah seorang Programmer dan Music Producer. Saya memiliki
+          minat dalam pengembangan web, musik, dan game development.
+        
+Paragraf 2 dalam Tentang: 
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo et quod
+            odio velit, hic yang...
+          
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
+Input Form: name Tipe: text
+Input Form: color Tipe: color
+Input Form: start Tipe: date
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio
+Input Form: radio Tipe: radio
